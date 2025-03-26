@@ -35,15 +35,15 @@ The following tools and techniques were used in this project:
 
 •	Visualizations: Key visualizations created include:
 
-o	Line Charts: To analyze daily closing and opening prices.
+1. Line Charts: To analyze daily closing and opening prices.
 
-o	Column Charts: To assess the average of the 52-week high and low prices by quarter and month.
+2. Column Charts: To assess the average of the 52-week high and low prices by quarter and month.
 
-o	Bar Charts: To analyze monthly changes in trading volume.
+3.	Bar Charts: To analyze monthly changes in trading volume.
 
-o	Slicers: To filter data by specific day, month, year, or quarter.
+4.	Slicers: To filter data by specific day, month, year, or quarter.
 
-o	Cards: To display key metrics such as average of 52-week highs/lows, closing prices, opening prices, trades, and volumes.
+5.	Cards: To display key metrics such as average of 52-week highs/lows, closing prices, opening prices, trades, and volumes.
 
 5. Key Findings & Insights
    
